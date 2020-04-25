@@ -44,7 +44,7 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	padding: 20px;
+	padding: 20px 10px;
 	box-sizing: border-box;
 }
 .xmy_top .tips{
